@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bnv_tab1" android:title="TAB1" android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:id="@+id/bnv_tab2" android:title="TAB2" android:icon="@drawable/ic_baseline_favorite_24"/>
+    <item android:id="@+id/bnv_tab3" android:title="TAB3" android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+
+</menu>
